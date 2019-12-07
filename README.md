@@ -1,40 +1,45 @@
 # primer.io
 
-##Templating
+## Templating
 Panini (Handlebar.js)
 
-##Mixin Library
+## Mixin Library
 Primer CSS 
 
-##Libraries
+## Libraries
 https://highway.js.org/
 slick
 wow
 
-##Task Management
+## Task Management
 Gulp.js
 
-##Testing
+## Testing
 Gulp.js
 
-##Styleguide
+## Styleguide
 Patternlab
 
-##Page Building
+## Page Building
 Custom solution
 
-##Commerce
+## Commerce
 Shopify Theme -> Port
 
-##Content
+## Content
 Contentful?
 
-##Other Features
+## CMS
+???
+
+## Other Features
 Modernizr
 Babel ES6
 Image Processing
-Responsive Images (srcset) - https://css-tricks.com/responsive-images-css/
-Hybrid (Native) Lazy Loading, With JS fallback (https://github.com/verlok/lazyload)
+prism.js syntax highlighting
+Slick Carousel
+Backbone.js
+Hybrid Lazy Loading, With JS fallback (https://github.com/verlok/lazyload)
 - https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/
 Pingdom Site Monitoring
 Google Analytics
