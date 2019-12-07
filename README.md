@@ -8,13 +8,9 @@ Primer CSS
 
 ## Libraries
 https://highway.js.org/
-slick
 wow
 
 ## Task Management
-Gulp.js
-
-## Testing
 Gulp.js
 
 ## Styleguide
@@ -33,13 +29,12 @@ Contentful?
 ???
 
 ## Other Features
-Modernizr
-Babel ES6
-Image Processing
-prism.js syntax highlighting
-Slick Carousel
-Backbone.js
-Hybrid Lazy Loading, With JS fallback (https://github.com/verlok/lazyload)
-- https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/
-Pingdom Site Monitoring
-Google Analytics
+- Modernizr 
+- Babel ES6 Compiling
+- Image Batch Processing
+- Syntax Highlighting - prism.js
+- Carousel - slick.js
+- Backbone.js
+- Native Lazy Loading, With JS fallback
+- Google Analytics
+- Automated Testing
