@@ -38,3 +38,5 @@ Contentful?
 - Native Lazy Loading, With JS fallback
 - Google Analytics
 - Automated Testing
+- Font Icon Generation
+- Webp Image Processing
