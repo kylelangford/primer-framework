@@ -2,6 +2,13 @@
 
 ## Templating
 Panini (Handlebar.js)
+https://get.foundation/sites/docs/panini.html
+
+### Panini Helpers
+
+### Handlebar Helpers
+https://github.com/helpers/handlebars-helpers
+
 
 ## Mixin Library
 Primer CSS 
