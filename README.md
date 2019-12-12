@@ -1,49 +1,66 @@
-# primer.io
+# Primer - FE Starter
 
-## Templating
+## Static Site Generator
+
 Panini (Handlebar.js)
 https://get.foundation/sites/docs/panini.html
+
+### Partials
+
+### Variables
 
 ### Panini Helpers
 
 ### Handlebar Helpers
 https://github.com/helpers/handlebars-helpers
 
+## Asset Management
+- CSS Compiling
+- JS Aggregation
+- Font Icon Generation
+- Image Batch Processing
+- Webp Batch Processing
 
-## Mixin Library
-Primer CSS 
+## Design System
 
-## Libraries
-https://highway.js.org/
-wow
+### Mixins
+- Primer 
 
-## Task Management
-Gulp.js
+### CSS
+- Primer 
 
-## Styleguide
-Patternlab
+### Theme
+- Agency
+- Portfolio
+- Commerce
 
-## Page Building
-Custom solution
+### Documentation (styleguide)
+- Patternlab
 
-## Commerce
-Shopify Theme -> Port
-
-## Content
-Contentful?
-
-## CMS
-???
+## Vendor Libraries
+- Backbone.js (Data Binding Methods)
+- Underscore.js (Array Methods)
+- Headroom.js (Fixed Header Solution)
+- Lazyload (Image Loading)
+- Slick.js (Carousel)
+- Prism.sj (Syntax Highlighting)
+- WOW.js ( Intersection Observer)
+- Gulp.js (Task Management)
 
 ## Other Features
-- Modernizr 
+- Custom Modernizr 
 - Babel ES6 Compiling
-- Image Batch Processing
-- Syntax Highlighting - prism.js
-- Carousel - slick.js
-- Backbone.js
-- Native Lazy Loading, With JS fallback
-- Google Analytics
-- Automated Testing
-- Font Icon Generation
-- Webp Image Processing
+- Resposive Image Helper
+- Code Linting
+- Browsersync
+
+## Commerce (Future)
+- Shopify Theme -> Port?
+- Custom Stripe Solution
+
+## Content (Future)
+- Contentful?
+- Mongo?
+
+
+
